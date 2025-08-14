@@ -1,4 +1,4 @@
-Welcome to my Defensive Security GitHub Repository, a focused collection of notes, walkthroughs, and resources from my journey toward becoming a proficient SOC Analyst, with an emphasis on endpoint log analysis and real-world threat detection.
+Welcome to my Defensive Security GitHub Repository, a focused collection of notes, walkthroughs, and resources from my journey toward becoming a proficient SOC Analyst, with an emphasis on endpoint log analysis and real-world threat detection,security audit, and incident response.
 
 This repository is built around hands-on labs and learning paths from TryHackMe’s Blue Team content, highlighting practical skills in log analysis, alert triage, and incident response — all through the lens of a modern Security Operations Center (SOC).
 
